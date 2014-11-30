@@ -1,0 +1,21 @@
+{
+  "name": "JsUtils",
+  "version": "0.0.0",
+  "authors": [
+    "Federico Rota <federico.rota01@gmail.com>"
+  ],
+  "description": "Javascript utilities",
+  "main": "app/src/jsUtils.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jasmine": "~2.1.2"
+  }
+}
