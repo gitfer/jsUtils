@@ -1,5 +1,5 @@
 
-var merge = function (firstArray, secondArray) {
+var merge =  function (firstArray, secondArray) {
 	var result = [];
 	firstArray.forEach(function (element) {
 		result.push(element);
